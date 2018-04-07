@@ -4,4 +4,3 @@ a=str(input("Enter a string: "))
 print("Reverse of the string is: ")
 print(a[::-1])
 int b =99
-c =10
